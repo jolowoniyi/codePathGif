@@ -1,8 +1,8 @@
 # codePathGif
 ## helloCharlie
 
-### App Description
-`TODO://` CodePath Test Project
+### CodePath Test Project
+
 
 ### App Walk-though
 
